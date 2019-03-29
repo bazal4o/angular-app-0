@@ -1,7 +1,6 @@
 # Angular-Training
 
 [![Build Status](https://travis-ci.org/bazal4o/angular-app-0.svg?branch=master)](https://travis-ci.org/bazal4o/angular-app-0)
-
 [![Build Status](https://dev.azure.com/TPaskalev/Angular-Training/_apis/build/status/bazal4o.angular-app-0?branchName=master)](https://dev.azure.com/TPaskalev/Angular-Training/_build/latest?definitionId=1&branchName=master)
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
